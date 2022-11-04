@@ -1,0 +1,3 @@
+To add debit/credit card as a functionality in payment
+So that the user Can use the card
+And also to remember the card for further payments
